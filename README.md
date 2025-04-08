@@ -1,9 +1,9 @@
 # 🎗️ Breast Cancer KNN Classification
-This project is KNN Classification model train on cleaned brest cancer data 
+This project uses a Scikit-Learn KNN Classification model train on cleaned breast cancer data 
 
 ## 📊 Model Info
 
-- Cleaned data from Wisconsin Diagnostic Brest Cancer dataset
+- Cleaned data from Wisconsin Diagnostic Brest Cancer (WDBC) dataset
 - Utilizes Scikit-Learn package for training and creating models
 
 
